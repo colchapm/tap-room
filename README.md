@@ -45,6 +45,9 @@ No known bugs at this time
 
 ## Improvement Opportunities
 
+* Add 'Pour' button next to beer name
+* Have 'Remaining Pints Left' calculation on Keg Details component
+* Additional Styling
 
 ## Link
 

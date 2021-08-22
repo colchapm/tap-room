@@ -9,11 +9,6 @@ function Keg(props){
         <div class="tooltip"><p><strong>Beer Name: </strong> {props.name}</p>
           <span class="tooltiptext">click to see details</span>
         </div>
-        {/* <h3>{props.name}</h3>
-        <h3>{props.brewer}</h3>
-        <h3>{props.type}</h3>
-        <h3>{props.abv}</h3>
-        <h3>{props.price}</h3> */}
       </div>
 
     </React.Fragment>
@@ -28,7 +23,8 @@ Keg.propTypes = {
   price: PropTypes.number,
   pintsRemaining: PropTypes.number,
   id: PropTypes.string,
-  whenKegClicked: PropTypes.func
+  whenKegClicked: PropTypes.func,
+  onClickingPour: PropTypes.func
 }
 
 export default Keg;
