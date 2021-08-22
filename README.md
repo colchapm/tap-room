@@ -26,7 +26,7 @@ This is part 1 of a 2 part application where a bar can track their keg inventory
 * _Requires Terminal Installation_
 * _Open the terminal on your local machine_
 * _Navigate to the directory inside of which you wish to house this project_
-* _Clone this project with the following command  `$ git clone <https://github.com/colchapm/tap-room.git>`_
+* _Clone this project with the following command  `$ git clone https://github.com/colchapm/tap-room.git`_
 * _Navigate to the root directory by entering `$ cd tap-room`_
 * _Open this project in Visual Studio Code with the command `$ code .`_
 * _Retrieve and install packages needed to run this application with `$ npm install`_
@@ -45,8 +45,7 @@ No known bugs at this time
 
 ## Improvement Opportunities
 
-* Add 'Pour' button next to beer name
-* Have 'Remaining Pints Left' calculation on Keg Details component
+* Add Edit and Delete functionality
 * Additional Styling
 
 ## Link
