@@ -50,7 +50,7 @@ No known bugs at this time
 
 ## Link
 
-This project is not hosted on GitHub Pages
+https://colchapm.github.io/tap-room/
 
 ## License
 
